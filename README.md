@@ -28,7 +28,7 @@ Python-бот для Telegram, позволяющий автоматизиров
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <ссылка-на-ваш-репозиторий>
+git clone https://github.com/MityaiGer/telegram-comment-bot
 cd telegram-comment-bot
 ```
 
